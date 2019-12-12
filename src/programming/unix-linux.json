@@ -9,7 +9,7 @@
         },
         {
           "command": "ls -l",
-          "description": "list items in current directory and show in long format to see perimissions, size, and modification date"
+          "description": "list items in current directory and show in long format to see permissions, size, and modification date"
         },
         {
           "command": "ls -a",
